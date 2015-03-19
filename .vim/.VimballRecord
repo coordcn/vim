@@ -1,0 +1,1 @@
+supertab.vmb: call delete('/opt/sequoiadb/.vim/doc/supertab.txt')|call delete('/opt/sequoiadb/.vim/plugin/supertab.vim')
